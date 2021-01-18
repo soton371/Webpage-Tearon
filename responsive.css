@@ -1,0 +1,8 @@
+@media(max-width: 767px){
+	.ip{
+		display: none !important;
+	}
+	.card_form{
+		margin-top: 30px;
+	}
+}

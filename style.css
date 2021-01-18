@@ -1,0 +1,51 @@
+nav{
+	border-bottom: 3px solid #008ed6;
+	background: #292b2c;
+    opacity: 0.9;
+}
+#home_section{
+	background-image: url(assets/img/home.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: center top;
+	background-repeat: no-repeat;
+}
+.dark_overlay{
+	background: rgba(0,0,0,.7);
+}
+.home_inner{
+	color: #fff;
+	padding-top: 150px;
+	padding-bottom: 50px;
+}
+.icon i.fas.fa-check {
+    background: #fff;
+    color: #008ed6;
+    padding: 4px;
+    font-size: 30px;
+    border-radius: 5px;
+}
+.card_form{
+	opacity: .8;
+}
+#learn_section .licon i.fas.fa-check {
+    background: #000;
+    color: #fff;
+    padding: 4px;
+    font-size: 30px;
+    border-radius: 5px;
+}
+#passion_section .picon i.fas.fa-check {
+    background: #fff;
+    color: #008ed6;
+    padding: 4px;
+    font-size: 30px;
+    border-radius: 5px;
+}
+#what_section .licon i.fas.fa-check {
+    background: #000;
+    color: #fff;
+    padding: 4px;
+    font-size: 30px;
+    border-radius: 5px;
+}
